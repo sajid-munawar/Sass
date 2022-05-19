@@ -10,4 +10,4 @@
 
 - if we use the simple file names for partials the watch or sass file compiler will also create css files for that partials 
 - so 
-  -we write _ before the partial file name just like _filename.scss
+  - we write _ before the partial file name just like _filename.scss
