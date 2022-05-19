@@ -1,0 +1,12 @@
+// variables
+// variables in sass are created with a $ sign and called with same sign
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: #fff;
+$bg-color: crimson;
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+    background-color: $bg-color;
+}
